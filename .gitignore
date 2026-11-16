@@ -1,0 +1,24 @@
+# 生成的项目目录（cd.py init 出来的成品，不入库）
+my-drama/
+试拍/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 本地工作区数据
+.workbuddy/
+
+# 编辑器与系统
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 临时产物
+*.tmp
+*.log
+~$*
